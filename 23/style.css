@@ -1,4 +1,8 @@
-
+.wrap{
+    width: 900px;
+    margin-right: auto;
+    margin-left: auto;
+}
 .header{
     width: 900px;
     height: 100px;

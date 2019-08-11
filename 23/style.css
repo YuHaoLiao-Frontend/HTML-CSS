@@ -1,7 +1,9 @@
 .wrap{
     width: 900px;
-    margin-right: auto;
-    margin-left: auto;
+    /*上下 0 左右 auto*/
+    margin: 0 auto;
+    /*上右下左*/
+    margin: 0 auto 0 auto;
 }
 .header{
     height: 100px;
